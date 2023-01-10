@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website for recipes that I am attempting to build following instructions from The Odin Project.
